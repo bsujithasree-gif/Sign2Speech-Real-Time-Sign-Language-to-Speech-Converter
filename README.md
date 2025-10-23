@@ -32,7 +32,10 @@
 1. Clone the repository:
    ```bash
       git clone https://github.com/bsujithasree-gif/Sign2Speech.git
+[Watch Sign2Speech Demo](https://github.com/bsujithasree-gif/Sign2Speech/blob/main/sign2speech.mp4?raw=true)
 
-   🎥 **Demo Video:** [Watch here](sign2speech.mp4)
+
+
+  
 
 
